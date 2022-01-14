@@ -5,6 +5,8 @@
   <h1>Glory-Day Profile</h1>
 </div>
 
+
+### # My Profile
 ```csharp
 public class GloryDay
 {
@@ -23,3 +25,11 @@ public class GloryDay
 	public string Email => "alwaysgloryday@gmail.com";
 }
 ```
+
+---
+
+### # Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glory-Day&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### # My Github Stat
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glory-Day&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
