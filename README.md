@@ -1,16 +1,25 @@
-### Hi there 👋
+<p align="center">
+  <img src="./resource/profile.png" width="80px" height="80px">
+</p>
+<div align="center">
+  <h1>Glory-Day Profile</h1>
+</div>
 
-<!--
-**Glory-Day/Glory-Day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```csharp
+public class GloryDay
+{
+	private const string name = "Oh Kyeong Min";
+	public string username = "Glory Day";
+		
+	public string[] code;
+	public string[] tools;
 
-Here are some ideas to get you started:
+	public GloryDay()
+	{
+		code = new string[5] { "C++","C#","Java","Python","Javascript" };
+		tools = new string[2] { "Unity","Unreal Engine 4" };
+	}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	public string Email => "alwaysgloryday@gmail.com";
+}
+```
