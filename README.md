@@ -6,7 +6,7 @@
 </div>
 
 
-### # My Profile
+### :computer: My Profile
 ```csharp
 public class GloryDay
 {
@@ -28,8 +28,16 @@ public class GloryDay
 
 ---
 
-### # Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glory-Day&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:pencil2: My Most Used Languages</summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glory-Day&layout=compact"/>
+  </a>	
+</details>
 
-### # My Github Stat
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glory-Day&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:sparkles: My Github Stat</summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Glory-Day&show_icons=true&theme=buefy"/>
+  </a>	
+</details>
