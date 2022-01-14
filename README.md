@@ -26,8 +26,6 @@ public class GloryDay
 }
 ```
 
----
-
 <details>
   <summary>:pencil2: My Most Used Languages</summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
