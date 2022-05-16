@@ -27,15 +27,19 @@ public class GloryDay
 ```
 
 <details>
+  <br>
   <summary>:pencil2: My Most Used Languages</summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glory-Day&layout=compact"/>
-  </a>	
+  </a>
+  <br>
 </details>
 
 <details>
   <summary>:sparkles: My Github Stat</summary>
+  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Glory-Day&show_icons=true&theme=buefy"/>
-  </a>	
+  </a>
+  <br>
 </details>
