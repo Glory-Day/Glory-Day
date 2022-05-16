@@ -13,12 +13,12 @@ public class GloryDay
 	private const string name = "Oh Kyeong Min";
 	public string username = "Glory Day";
 		
-	public string[] code;
+	public string[] languages;
 	public string[] tools;
 
 	public GloryDay()
 	{
-		code = new string[5] { "C++","C#","Java","Python","Javascript" };
+		languages = new string[5] { "C++","C#","Java","Python","Javascript" };
 		tools = new string[2] { "Unity","Unreal Engine 4" };
 	}
 
