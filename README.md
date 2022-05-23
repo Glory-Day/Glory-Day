@@ -10,19 +10,19 @@
 ```csharp
 public class GloryDay
 {
-	private const string name = "Oh Kyeong Min";
-	public string username = "Glory Day";
-		
-	public string[] languages;
-	public string[] tools;
+	private const string Name = "Oh Kyeong Min";
+	
+	public static string Username => "Glory Day";
+	public static string Email => "alwaysgloryday@gmail.com";
+	
+	public string[] Languages { get; private set; }
+	public string[] Tools { get; private set; }
 
 	public GloryDay()
 	{
-		languages = new string[5] { "C++","C#","Java","Python","Javascript" };
-		tools = new string[2] { "Unity","Unreal Engine 4" };
+		Languages = new string[5] { "C++","C#","Java","Python","Javascript" };
+		Tools = new string[2] { "Unity","Unreal Engine 4" };
 	}
-
-	public string Email => "alwaysgloryday@gmail.com";
 }
 ```
 
