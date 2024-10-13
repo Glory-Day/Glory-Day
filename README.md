@@ -20,8 +20,8 @@ public class GloryDay
 
 	public GloryDay()
 	{
-		Languages = new string[5] { "C++","C#","Java","Python","Javascript" };
-		Tools = new string[2] { "Unity","Unreal Engine 4" };
+		Languages = new string[3] { "C++","C#","Python" };
+		Tools = new string[2] { "Unity","Git" };
 	}
 }
 ```
